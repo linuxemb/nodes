@@ -1,0 +1,22 @@
+{
+  "name": "pi",
+  "version": "1.0.0",
+  "description": "test nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+    "start: "node . "
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "nodes"
+  ],
+  "author": "lish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
